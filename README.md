@@ -24,3 +24,9 @@
 
 [jsDelivr](https://www.jsdelivr.com/)
 [cdnJs](https://cdnjs.com/)
+
+## Mail Tools
+
+[Sendgrid](https://sendgrid.com)
+[Postmark](https://postmarkapp.com/why/api)
+[Revue](https://www.getrevue.co/)
