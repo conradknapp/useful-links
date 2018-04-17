@@ -18,6 +18,7 @@
 
 ## Website Speed/Performance Tools
 
+[Web Page Test](https://www.webpagetest.org/)
 [GT Metrix](https://gtmetrix.com/)
 
 ## CDN Libraries
@@ -30,3 +31,18 @@
 [Sendgrid](https://sendgrid.com)
 [Postmark](https://postmarkapp.com/why/api)
 [Revue](https://www.getrevue.co/)
+
+## RegExp Tools
+
+[Regexr](https://regexr.com/)
+[Regex 101](https://regex101.com/)
+
+## Dummy JSON Tools (for AJAX Requests)
+
+[My JSON](http://myjson.com/)
+[JSON Placeholder](jsonplaceholder.typicode.com)
+
+## Push Notification Tools
+
+[Push Companion](https://web-push-codelab.glitch.me/)
+[Notification Generator](https://tests.peter.sh/notification-generator/)
